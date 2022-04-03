@@ -1,4 +1,3 @@
 <?php
 
-
-echo "hello ini file master loh";
+echo "hello register";
